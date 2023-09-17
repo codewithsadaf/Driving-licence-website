@@ -23,7 +23,6 @@ The Car Driving Website offers an immersive online experience focused on the wor
 
 To explore the Car Driving Website, visit the live website:
 
-[Link to Live Website](https://car-driving-website.netlify.app/)
 
 ## Contributions
 
